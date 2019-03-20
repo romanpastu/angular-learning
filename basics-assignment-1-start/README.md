@@ -1,3 +1,7 @@
+# Goal
+THe goal of this assignment is to learn the basics of components.
+
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
