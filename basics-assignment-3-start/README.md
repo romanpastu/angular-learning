@@ -1,4 +1,4 @@
-# Goalç
+# Goal
 
 The goal in this assignment is to practice Directives
 
