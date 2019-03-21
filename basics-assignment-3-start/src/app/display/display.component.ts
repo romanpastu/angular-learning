@@ -25,13 +25,10 @@ export class DisplayComponent implements OnInit {
     }else{
       this.passCreated = true;
     }
-    console.log(this.getColor());
-  }
-
-  getColor(){
-    return this.displays.length >= 5 ? "blue" : "white" ;
     
   }
+
+ 
   
 
 }
