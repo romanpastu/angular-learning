@@ -1,0 +1,8 @@
+<p>This is the display</p>
+<button (click)="onShowDisplay()">Display details</button>
+<p *ngIf="passCreated">Secret password = tuna</p>
+
+<p  *ngFor="let item of displays" [ngStyle]="{backgroundColor: getColor()}" [ngClass]="{plus5: nOfDisplays >= 5}"> {{ item }}</p>
+
+
+
