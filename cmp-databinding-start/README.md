@@ -1,3 +1,6 @@
+# Goal
+Pass information amongst multiple components using event listeners
+
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
